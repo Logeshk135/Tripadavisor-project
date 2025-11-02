@@ -119,7 +119,7 @@ header {
 
 .sale-image h2 { top: 20%; font-size: 2rem; font-weight: bold; }
 .sale-image p { top: 55%; font-size: 1.2rem; font-weight: 500; }
-.sale-image button { top: 80%; padding: 10px 25px; font-weight: bold; background-color: red;}
+.sale-image button { top: 80%; padding: 10px 25px; font-weight: bold; background-color: blue;}
 
 /* Traveller Items */
 .traveller-items {
